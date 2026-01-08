@@ -56,30 +56,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=daksheshsharma2409&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=daksheshsharma2409&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daksheshsharma2409&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=daksheshsharma2409&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -101,6 +77,10 @@
 ---
 
 ![](https://visitcount.itsvg.in/api?id=daksheshsharma2409&icon=2&color=6)
+
+</div>
+
+<div align=center>
 
 **Thanks for visiting! 😊**
 
